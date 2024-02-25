@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prac2dev</string>
+    <string name="myapplication"><span lang="ru-RU">Мое приложение</span></string>
+    <string name="hello_world"><span lang="ru-RU">Привет!</span></string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kiểu Tích hợp mới -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Đặt màu nền cho ứng dụng -->
+        <item name="android:windowBackground">@color/cardview_dark_background</item>
+        <!-- Đặt màu chữ cho các tiêu đề -->
+        <item name="android:textColor">@color/design_default_color_primary_dark</item>
+    </style>
+</resources>
